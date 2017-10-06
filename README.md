@@ -33,7 +33,7 @@ By the end of this week you should be able to use core spreadsheet techniques to
 * Reading:
   * [Data Journalism Heist](https://leanpub.com/DataJournalismHeist) *(BCU students please ask for your voucher for a free copy)*
   * [Anderson, CW (2012) Towards a sociology of computational and algorithmic journalism](https://www.scribd.com/document/120198213/Towards-a-sociology-of-computational-and-algorithmic-journalism)
-  * What is algorithmic thinking? [Coursera: Algorithmic Thinking 1](https://www.coursera.org/learn/algorithmic-thinking-1)
+
 
 You will [find instructions on how to get started with GitHub in another repository here](https://github.com/paulbradshaw/introtogithub)
 
@@ -46,6 +46,8 @@ By the end of this week you should be able to use a range of spreadsheet functio
 * Reading:
   * [Finding Stories in Spreadsheets](https://leanpub.com/spreadsheetstories) *(BCU students please ask for your voucher for a free copy)*
 
+**Additional resources**: OpenLearn: [Computational thinking and automation](http://www.open.edu/openlearn/science-maths-technology/computing-and-ict/introduction-computational-thinking/content-section-1)
+
 ## Week 3: Mobile first: responsive and other design considerations
 
 By the end of this week you should be able to create a basic HTML page with CSS styles, and explain the basics of design for mobile devices.
@@ -55,8 +57,11 @@ By the end of this week you should be able to create a basic HTML page with CSS 
 * Workshop: HTML, CSS and responsive frameworks. [Fork this! Intro to responsive web design with Bootstrap](https://github.com/paulbradshaw/jsintro/blob/master/responsive/bootstrapintro.md)
 * Task: Create a responsive webpage on [GitHub Pages](https://github.com/paulbradshaw/introtogithub/blob/master/githubwebsites.md)
 * Reading: Jeremy Keith: [Resilient Web Design](https://resilientwebdesign.com/)
+* Reading: Manuel Matuzovic: [Writing HTML with accessibility in mind](https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a62026493412); [Writing CSS with Accessibility in Mind](https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939); [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9)
 
-## Week 4: Making it visual, making it interactive
+**Additional resources**: [Lynda.com tutorials on responsive web design](https://www.lynda.com/Responsive-Design-training-tutorials/1357-0.html) (free for BCU students)
+
+## Week 4: Making it visual, making it interactive - JavaScript
 
 By the end of this week you should be able to explain basic concepts in JavaScript and use it to create basic interactivity and/or visualisations. *Note: the [Narrative module](https://github.com/paulbradshaw/MED7334-Narrative) class on principles of visualisation and visual design, and the class on ergodic storytelling are particularly relevant to your work in this area*
 
@@ -64,7 +69,7 @@ By the end of this week you should be able to explain basic concepts in JavaScri
 * Task: Continued work on JavaScript
 * Reading: Wong, D (2010) The Wall Street Journal Guide to Information Graphics
 
-## Week 5: Solving data problems 
+## Week 5: Solving data problems
 
 By the end of this week you should be able to identify common data problems, and use techniques to solve those. You should also be able to use basic data processing and analysis techniques in R.
 
